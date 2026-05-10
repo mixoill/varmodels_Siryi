@@ -1,4 +1,3 @@
-# varmodels_Siryi
 # VAR Models for Economic Forecasting
 
 This repo contains files with results of training 3 different VAR models.
